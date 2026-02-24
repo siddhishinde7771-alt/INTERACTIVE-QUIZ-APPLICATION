@@ -23,3 +23,7 @@ JavaScript (Functionality and Logic): JavaScript is the core component that make
 
 OUTPUT:
 <img width="991" height="911" alt="Image" src="https://github.com/user-attachments/assets/3074b649-560c-4eeb-b537-e7795d5825f0" />
+
+<img width="1893" height="909" alt="Image" src="https://github.com/user-attachments/assets/ac05d6e9-5d24-497b-8d43-5926df1a879f" />
+
+<img width="1920" height="909" alt="Image" src="https://github.com/user-attachments/assets/1127b4e2-7be6-4595-84a2-e2277b8d5c45" />
